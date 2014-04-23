@@ -8,7 +8,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
 
-    url(r'^login/$', redirect_to, {'url':'/login/twitter'}),
+    #url(r'^login/$', redirect_to, {'url':'/login/twitter'}),
     url(r'^private/$', 'espe_app.views.privado', name='privado'),
     url(r'^$', 'espe_app.views.home', name='home'),
     # url(r'^espe/', include('espe.foo.urls')),

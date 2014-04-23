@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/espe/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="29" selection-start="6652" selection-end="6652" vertical-scroll-proportion="0.7826923" vertical-offset="3067" max-vertical-offset="3708">
+            <state line="193" column="29" selection-start="6652" selection-end="6652" vertical-scroll-proportion="-13.566667" vertical-offset="3067" max-vertical-offset="3708">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inicio.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="inicio.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/espe/templates/inicio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="66" selection-start="158" selection-end="158" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="270">
+            <state line="10" column="7" selection-start="253" selection-end="253" vertical-scroll-proportion="0.34416825" vertical-offset="0" max-vertical-offset="523">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/espe/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="68" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+            <state line="10" column="5" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
               <folding />
             </state>
           </provider>
@@ -100,9 +100,9 @@
         <option value="$PROJECT_DIR$/espe_app/models.py" />
         <option value="$PROJECT_DIR$/espe_app/views.py" />
         <option value="$PROJECT_DIR$/espe/templates/private.html" />
+        <option value="$PROJECT_DIR$/espe/settings.py" />
         <option value="$PROJECT_DIR$/espe/urls.py" />
         <option value="$PROJECT_DIR$/espe/templates/inicio.html" />
-        <option value="$PROJECT_DIR$/espe/settings.py" />
       </list>
     </option>
   </component>
@@ -548,13 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/espe/templates/inicio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="66" selection-start="158" selection-end="158" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/espe/templates/private.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="107" selection-end="107" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="252">
@@ -562,9 +555,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/espe/urls.py">
+    <entry file="file://$PROJECT_DIR$/espe/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="68" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+        <state line="193" column="29" selection-start="6652" selection-end="6652" vertical-scroll-proportion="-13.566667" vertical-offset="3067" max-vertical-offset="3708">
           <folding />
         </state>
       </provider>
@@ -576,9 +569,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/espe/settings.py">
+    <entry file="file://$PROJECT_DIR$/espe/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="29" selection-start="6652" selection-end="6652" vertical-scroll-proportion="0.7826923" vertical-offset="3067" max-vertical-offset="3708">
+        <state line="10" column="5" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/espe/templates/inicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="253" selection-end="253" vertical-scroll-proportion="0.34416825" vertical-offset="0" max-vertical-offset="523">
           <folding />
         </state>
       </provider>
